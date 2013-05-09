@@ -1,6 +1,13 @@
 = reveal_rails
 
-Description goes here.
+A gem for awesome modals
+
+Thanks to the creators of the origional javascript
+we decided to package this up for easy install
+
+http://github.com/zurb/reveal
+
+http://zurb.com/playground/reveal-modal-plugin
 
 == Contributing to reveal_rails
  
@@ -14,6 +21,8 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2013 Paul Awesome Kruger and Moises Zaragoza. See LICENSE.txt for
+Copyright (c) 2013 Paul Kruger and Moises Zaragoza. See LICENSE.txt for
 further details.
+
+
 
