@@ -9,6 +9,9 @@ rdoc
 doc
 .yardoc
 
+#rvmrc file
+.rvmrc
+
 # bundler
 .bundle
 
