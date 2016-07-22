@@ -4,7 +4,7 @@ jQuery! For Rails! So great.
 
 This gem provides:
 
-  * reveal modal lib
+  * [Zurb's Reveal Jquery Modal library](http://github.com/zurb/reveal)
 
 ## Installation
 
