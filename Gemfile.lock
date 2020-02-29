@@ -13,7 +13,7 @@ GEM
       rdoc
     json (1.7.7)
     multi_json (1.7.3)
-    rake (10.0.4)
+    rake (13.0.1)
     rdoc (4.0.1)
       json (~> 1.4)
     shoulda (3.5.0)
